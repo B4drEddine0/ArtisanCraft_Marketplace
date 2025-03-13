@@ -1,7 +1,7 @@
 # ArtisanCraft Marketplace 🌿🛍️
 
 ## Contexte du projet
-**ArtisanCraft Marketplace** est une plateforme en ligne qui met en relation des artisans locaux avec des clients à la recherche de produits artisanaux uniques. En tant qu'équipe de développeurs Frontend juniors, vous êtes responsables de l'intégration complète de ce site web. Votre mission : créer un design attractif et fonctionnel, puis le transformer en un site web interactif utilisant **HTML** et **CSS**.
+**ArtisanCraft Marketplace** est une plateforme en ligne qui met en relation des artisans locaux avec des clients à la recherche de produits artisanaux uniques. En tant qu'équipe de développeurs Frontend juniors,nous somme responsables de l'intégration complète de ce site web. Notre mission : créer un design attractif et fonctionnel, puis le transformer en un site web interactif utilisant **HTML** et **CSS**.
 
 ---
 
